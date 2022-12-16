@@ -14,5 +14,7 @@ Second model used- Sequential
 
 Accray achieved=~72%
 
+![image](https://user-images.githubusercontent.com/92429666/208055722-2857e1d7-6e6f-4c2c-8fa2-6ea528a75565.png)![image](https://user-images.githubusercontent.com/92429666/208055754-1f7fbfe2-31d9-4b69-bee0-8cc9fb6e84e5.png)
+
 
 dataset used-https://drive.google.com/file/d/1wWsrN2Ep7x6lWqOXfr4rpKGYrJhWc8z7/view
