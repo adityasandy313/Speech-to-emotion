@@ -6,6 +6,8 @@ first model used- MLPClassifier
 accuracry gained=~50%
 
 Second model used- Sequential
+
 ![image](https://user-images.githubusercontent.com/92429666/208052799-b2aff9cd-d5f7-4135-b3e9-9858f5cf2d18.png)
+
 
 Accray achieved=~72%
